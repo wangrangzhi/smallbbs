@@ -16,6 +16,11 @@ import javax.servlet.http.HttpServletResponse;
 public class register extends HttpServlet {
 
 	/**
+	 * 
+	 */
+	private static final long serialVersionUID = -8861882210290024203L;
+
+	/**
 	 * Constructor of the object.
 	 */
 	public register() {
